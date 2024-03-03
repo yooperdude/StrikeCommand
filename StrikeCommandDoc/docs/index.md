@@ -1,4 +1,4 @@
-# Strike Command the RPG
+# Strike Command The RPG
 
 The original basis  [Strike Command : The Commandering](https://forums.somethingawful.com/showthread.php?threadid=3815107&userid=0&perpage=40&highlight=strike%20command&pagenumber=1).
 
