@@ -12,6 +12,8 @@ The original basis  [Strike Command : The Commandering](https://forums.something
 
 ## Players Guide
 
+[The Absolute Basics](/StrikeCommandDoc/docs/absolutebasics) 
+
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
