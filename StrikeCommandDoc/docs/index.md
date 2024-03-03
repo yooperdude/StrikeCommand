@@ -12,7 +12,7 @@ The original basis  [Strike Command : The Commandering](https://forums.something
 
 ## Players Guide
 
-[The Absolute Basics](/StrikeCommandDoc/docs/absolutebasics.md) 
+[The Absolute Basics](../docs/absolutebasics.md) 
 
     mkdocs.yml    # The configuration file.
     docs/
