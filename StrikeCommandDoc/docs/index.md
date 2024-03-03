@@ -2,7 +2,7 @@
 
 The original basis  [Strike Command : The Commandering](https://forums.somethingawful.com/showthread.php?threadid=3815107&userid=0&perpage=40&highlight=strike%20command&pagenumber=1).
 
-## Commands
+## Start Here
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
@@ -10,9 +10,18 @@ The original basis  [Strike Command : The Commandering](https://forums.something
 * `mkdocs -h` - Print help message and exit.
 * `mkdocs test2!`
 
-## Project layout
+## Players Guide
 
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## Aircraft
+
+## Ground Units
+
+## Naval Units
+
+## SAM's
+
