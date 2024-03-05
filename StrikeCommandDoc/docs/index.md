@@ -19,6 +19,15 @@ The [Absolute Basics](absolutebasics.md) of a Strike Command : A Computer Aided 
 
 ## Players Guide
 
+<div class="grid cards" markdown>
+
+- __HTML__ for content and structure 1434
+- __JavaScript__ for interactivity
+- __CSS__ for text running out of boxes
+- __Internet Explorer__ ... huh?
+
+</div>
+
   
 
 [The Absolute Basics](absolutebasics.md)
