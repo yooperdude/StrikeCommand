@@ -1,4 +1,24 @@
 site_name: Strike Command RPG
+site_author: Yooper
+
+#Navigation
+
+nav:
+  - Welcome:
+    - Strike Command: index.md
+    - Absolute Basics: absolutebasics.md
+  - Get Started:
+    - Prerequisities: get-started/prereqs.md
+    - Your Character : get-started/character.md
+    - Your Corporation : get-started/corporation.md
+  - Procurement:
+    - Procurement Process : procurement/process.md
+    - Upgrade Paths : procurement/upgrade.md
+    - Black Market : procurement/black-market.md
+
+# Copyright
+copyright : Copyright &copy; Yooper 2024
+
 theme:
   name: material
   features:
@@ -17,13 +37,13 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
+      primary: blue
       accent: purple 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: teal
+      primary: blue
       accent: lime
 markdown_extensions:
 
