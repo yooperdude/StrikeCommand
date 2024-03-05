@@ -21,9 +21,9 @@ The [Absolute Basics](absolutebasics.md) of a Strike Command : A Computer Aided 
 
 <div class="grid cards" markdown>
 
-- __HTML__ for content and structure 1434
-- __JavaScript__ for interactivity
-- __CSS__ for text running out of boxes
+- :smile: __HTML__ for content and structure 1501 deploy
+- :fontawesome-brands-html5: __JavaScript__ for interactivity
+- :octicons-arrow-right-24: __CSS__ for text running out of boxes
 - __Internet Explorer__ ... huh?
 
 </div>
