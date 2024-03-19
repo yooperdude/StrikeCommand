@@ -3,7 +3,7 @@
 
   
 
-The original basis [Strike Command : The Commandering](https://forums.somethingawful.com/showthread.php?threadid=3815107&userid=0&perpage=40&highlight=strike%20command&pagenumber=1).
+Read the original here : [Strike Command : The Commandering](https://forums.somethingawful.com/showthread.php?threadid=3815107&userid=0&perpage=40&highlight=strike%20command&pagenumber=1).
 
   
 
@@ -11,11 +11,9 @@ The original basis [Strike Command : The Commandering](https://forums.somethinga
 
 1426 Edit
 
-  
 
 The [Absolute Basics](absolutebasics.md) of a Strike Command : A Computer Aided RPG.  
 
-  
 
 ## Players Guide
 
@@ -32,32 +30,8 @@ The [Absolute Basics](absolutebasics.md) of a Strike Command : A Computer Aided 
 
 [The Absolute Basics](absolutebasics.md)
 
-  
+[Get Started : Character Creation](get-started\character.md)  
+[Get Started : Corporation Creation](get-started\corporation.md)  
+[Get Started : Prerequisities](get-started\prereqs.md)  
 
-mkdocs.yml # The configuration file.
 
-docs/
-
-index.md # The documentation homepage.
-
-... # Other markdown pages, images and other files.
-
-  
-
-## Aircraft
-
-  
-
-## Ground Units
-
-  
-
-## Naval Units
-
-  
-
-## SAM's
-
-  
-
-## Procurement

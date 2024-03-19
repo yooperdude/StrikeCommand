@@ -8,6 +8,7 @@ nav:
     - Strike Command: index.md
     - Absolute Basics: absolutebasics.md
   - Get Started:
+    - Flow of Play: get-started/flowofplay.md
     - Prerequisities: get-started/prereqs.md
     - Your Character : get-started/character.md
     - Your Corporation : get-started/corporation.md
