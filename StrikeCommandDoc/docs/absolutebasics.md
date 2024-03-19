@@ -22,7 +22,7 @@ You do have skills. These can range from passive effects such as reduced mainten
 
 The "Party" is the management of the corporation. Your group will make decisions about how the operation is run, what to acquire, where to send it, and how to perform missions. Even if your group is plucky maintenance techs, you are still shareholders of the group and as such have a special say in operations. 
 
-The corporation will have a certain root that ties it to it's past. This could be a contact with the CIA, a contract with LockMart, or even a cargo airline that flew rubber chickens out of Hong Kong.
+The corporation will have a certain root that ties it to it's past. This could be a contact with the CIA, a contract with LockMart, or even a cargo airline that flew rubber chickens out of Hong Kong. 
 
 The Corporation will have a slew of NPC's that can do special tasks or can be used by the GM to offset events. For example you may hire a Washington Based Lobbyist, a team of Ex-Marines for Base Security, or a Faygo slamming Juggalo. The options are endless and are completely based on your playstyle.
 
