@@ -30,11 +30,11 @@ Once you have the bones of your Corporation built you head to Procurement.
 
 ## Procurement
 
-Now the fun really begins. You begin procurement with a base level of Procurement Points (PP). You will first choose which origin of aircraft then branch into airframes, tech upgrades, and pilots. Finally if you've saved some PP you can spend it on ground facilities such as Radar's and SAM's.
+Now the fun really begins. You begin procurement with a base level of Procurement Points (PP). You will first choose which supplier of aircraft then branch into airframes, tech upgrades, and pilots. Finally if you've saved some PP you can spend it on ground facilities such as Radar's and SAM's.
 
 Assets purchased through Procurement are insured. Should you lose an airframe it will be replaced. It may not arrive in time for the next mission but you will still end up with a functional airframe. One, the accountants love tax write offs, and two, it's not fun to plan a mission and have the stress of losing every aircraft on your shoulders.
 
-The Origin is critically important and locks you in to a certain group of airframes. For example if you choose to fly Russian aircraft then it becomes exceptionally expensive to purchase non-Russian aircraft with Procurement Points. Why? You have maintenance teams, replacement parts, and the institutional knowledge to maintain Russian Aircraft, tossing a South African fighter into the mix is a completely different animal.
+The Supplier is critically important and locks you in to a certain group of airframes. For example if you choose to fly Russian aircraft from the Ivanov Brothers then it becomes exceptionally expensive to purchase non-Russian aircraft with Procurement Points. Why? You have maintenance teams, replacement parts, and the institutional knowledge to maintain Russian Aircraft as well as a relationship acquiring those parts, tossing a South African fighter into the mix is a completely different animal.
 
 Except on the Black Market.
 
