@@ -48,6 +48,9 @@ theme:
         name: Switch to light mode    
       primary: blue
       accent: lime
+  theme:
+    logo: assets/logo.png
+    
 markdown_extensions:
 
   # Python Markdown
