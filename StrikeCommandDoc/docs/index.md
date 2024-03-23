@@ -27,7 +27,7 @@ Russia in the East is a province of its own that as long as it supplies raw mate
 
 India and Pakistan haven't tossed nukes at each other but Kashmir is still a sticking point. It was an autonomous UN zone for about a week and then the shitstorm hit. For now it's a no mans land that no country dares claim. Tibet is in the midst of a rebirth, though China still has the hammer down.
 
-Eastern Europe is simply the unstable zone. Russia, unable to conquer it all militarily, has instead sought to destabilize the zone economicaly, militarily, and culturally. Romania skirmishes with Bulgaria. Ukraine and Poland went at it. The Balkan states are just a huge basket of fuck no. Estonia leads up the anti-Russian league but lacks anyone with any muscle to back it up. For now Russia is satisfied to just create the chaos.
+Eastern Europe is simply the unstable zone. Russia, unable to conquer it all militarily, has instead sought to destabilize the zone economicaly, militarily, and culturally. Romania skirmishes with Bulgaria. Ukraine continues to struggle under Russian attack. The Balkan states are just a huge basket of fuck no. Estonia leads up the anti-Russian league but lacks anyone with any muscle to back it up. For now Russia is satisfied to just create the chaos.
 
 The Former Yugoslav states have merged into an odd economic zone that purchased all of Greece's debt from Germany. Now they manufacture weapons for sale to damned near everyone else. Greece is poor but mostly stable. Though a good deal of Greek nationalists are foaming at the mouth for independence.
 
@@ -53,10 +53,13 @@ The [Absolute Basics](absolutebasics.md) of Strike Command : A Computer Aided RP
 
 <div class="grid cards" markdown>
 
-- :smile: __HTML__ for content and structure 1501 deploy
-- :fontawesome-brands-html5: __JavaScript__ for interactivity
-- :octicons-arrow-right-24: __CSS__ for text running out of boxes
-- __Internet Explorer__ ... huh?
+- :one:  [The Absolute Basics](absolutebasics.md)
+- :two:  [Get Started : Character Creation](get-started\character.md)  
+- :three:  [Get Started : Corporation Creation](get-started\corporation.md)  
+- :four:  [Get Started : Prerequisities](get-started\prereqs.md)
+- :five: [Procurement](procurement\process.md)
+- :six: [Mercenary Coordinator (The GM)](MC\mc_start.md)
+- :seven: [The Use of Weapons](get-started\howtofight.md)  
 
 </div>
 

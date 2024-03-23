@@ -64,3 +64,4 @@ The MC will analyze the theater, move the opposing forces, and determine how the
 
 Upon exiting the theater the players can go through another round of procurement and spend earned points on aircraft upgrades. Personnel such as pilots or crews may also be upgraded to allow for faster reaction times.
 
+[Head to Getting Started :fontawesome-solid-paper-plane:](get-started\prereqs.md){ .md-button .md-button--primary }
