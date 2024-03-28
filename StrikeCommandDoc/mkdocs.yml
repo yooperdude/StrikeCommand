@@ -11,12 +11,13 @@ nav:
     - Prerequisities: get-started/prereqs.md
     - Your Character : get-started/character.md
     - Your Corporation : get-started/corporation.md
-    - How to Fight : get-started/howtofight.md
     - Flow of Play: get-started/flowofplay.md
+    - How to Fight : get-started/howtofight.md
   - Procurement:
     - Procurement Process : procurement/process.md
     - Upgrade Paths : procurement/upgrade.md
     - Black Market : procurement/black-market.md
+    - Insurance : procurement/insurance.md
   - Mercenary Coordinator:
     - MC Start Here : MC/mc_start.md
 # Copyright

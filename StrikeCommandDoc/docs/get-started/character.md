@@ -113,4 +113,4 @@ Your character sheet probably fits onto an index card, maybe even a business car
 1.   He will have insight into likely locations for OPFOR combat air patrols. The MC may use these paths unless the narrative drives it otherwise.
 2.   A single flight of escorts may be one skill level higher during the mission.
 
-:material-airplane: :material-airplane: :material-airplane: **Now that you have a Character, head over to the [Corporation](corporation.md) section.**
+:material-arrow-right-box:: **Now that you have a Character, head over to the [Corporation](corporation.md) section.**
