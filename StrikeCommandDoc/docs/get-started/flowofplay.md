@@ -1,6 +1,6 @@
 # Flow of Play
 
-Strike Command has two areas of play. The first is multi-domain, the second is simulation. The multi-domain section is where you perform negotiations, scouting, dealing with customers or rivals, and planning for the mission itself. The simulation is where the game moves into the battle space and you watch your plans unfold live in a military grade combat simulator.
+Strike Command has two areas of play. The first is **Multi-Domain**, the second is **Simulation**. The multi-domain section is where you perform negotiations, scouting, dealing with customers or rivals, and planning for the mission itself. The simulation is where the game moves into the battle space and you watch your plans unfold live in a military grade combat simulator.
 
 
 
@@ -40,6 +40,7 @@ graph LR
   F --> G[GM Builds Mission];
   G --> H[Run Simulation];
   H ----> E;
+  H ---->|Theater Change| C;
 ```
 
 :material-exclamation-thick: You can remain in a Theater of Operations until you wish to move to greener pastures.
@@ -48,9 +49,9 @@ graph LR
 
 :material-exclamation-thick: Procurement and Procurement Upgrades *only occur initially and in between theaters.*
 
-### Actions
+### Preparation and Actions
 
-In between picking a mission and planning the mission is preparation. You need to understand the threat, understand the target, and decide how best to execute the mission. Just tossing airplanes into the sky and YOLO'ing it is not the best option. Unforeseen obstacles, SAM sites, or defenses could ruin your day.
+In between picking a mission and planning the mission is preparation. You need to understand the threat, understand the target, and decide how best to execute the mission. Just tossing airplanes into the sky and YOLO'ing it is not the best option. Unforeseen obstacles, SAM sites, or defenses could ruin your day. The MC will work with you to display a map, array the intel, and let you determine how best to approach it.
 
 !!! Example
 
@@ -78,4 +79,43 @@ You are in a command post or a control tower staring at a digital map as the mis
 
 ![Example Mission Plan](images/missionexample.png)
 
+A good mission map will be simple enough to display the flow without too many details or contingencies. In the real world aircraft go up for a defined mission with defined armament, they are rarely retasked for something completely and wildly different. 
+
+Work with your MC and sketch out your mission plan using the available assets. 
+
 ## Simulation :map:
+
+The MC builds the simulation in CMO using the mission plan that the players have made. The group will observe and interact with the mission as the simulation unfolds. The MC will try to keep focus on the most interesting parts of the mission while making sure that the objectives have been completed. A forum post or YouTube video can also be a great way to run the mission.
+
+There are no skill checks performed during the Simulation. However the MC may allow it in special circumstances but normally we want the simulation to be the arbiter of performance as it is considerably more detailed.
+
+### Game View
+
+The MC will be the one actually using CMO however it is useful to understand what you are looking at. The MC can hover or click on any unit icon and you can see the details including detailed database entries.
+
+![CMO Layout](images/image.png)
+
+1. Range ring for non-player radar.
+2. Range ring for Land/Surface Weapons.
+3. Radar arc from player aircraft.
+4. Range ring for air to air weaponry.
+5. Groups of friendly aircraft with slug trails showing path.
+6. Individual aircraft with slug trails behind.
+7. Range ring for hostile SAM.
+8. Target icon.
+9. SAM system with unit count shown in top left.
+
+### Time Compression
+
+Most of the time you will run Time Compression while ingressing to the target area. The MC can "speed up" time to get past the boring bits. Though be careful not to go too fast as you can miss critical details.
+
+### Icons
+
+The MC can change iconography between a few different sets in the mission. I'd recommend on the first run through the cycle through the options and decide what everyone likes best. The NATO icons will be familiar to wargamers but the stylized icons may be easier to look at.
+
+### Message Log
+
+In the lower left corner is the Message Log. It can display information that the players might normally not see so it is up to the MC's discretion. But it can be a lot of fun to see the percentages as a unit dodges missiles and activates countermeasures. I tend to keep it closed until the engagement is on, then keep an eye on it for cool bits.
+
+:material-arrow-right-box: **Now move on to the [How to Fight](howtofight.md) section.**
+
