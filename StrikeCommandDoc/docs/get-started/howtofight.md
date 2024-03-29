@@ -88,29 +88,7 @@ CMO has a few different types of missions. Patrols offer the most flexibility an
 
 ### Strike Missions
 
-<<<<<<< HEAD
 A Strike Mission needs to begin with defined targets. 
-=======
-Strike Missions are pre-planned missions that go after a list of known targets. There is a Strike Planner that lets you designate waypoints, altitudes, and behavior as the flight attacks the target. Once the targets have been attacked the aircraft will RTB.
-
-![Strike Planner](images/strikeplanner.png)
-
-#### Air Intercept
-
-Air Intercept missions will attack air targets. For example attacking a wing of bombers or intercepting incoming attack aircraft. 
-
-#### Land Strike
-
-Land Strike will send attack aircraft against known targets. An example is an offensive counter-air strike (OCA) against a runway. You know where the runway is, facilities, and if you have a scout on the ground you might know even more. 
-
-#### Naval ASuW Strike
-
-This is an anti surface warfare strike. Think an attack against a group of destroyers or against a cargo ship.
-
-#### ASW Strike
-
-Anti submarine warfare strike. You would use this to deploy ASW assets against a known submarine location. 
->>>>>>> 9714c8f6bb00c5afde69bc6da61eed7769d5e113
 
 ### Patrol Missions
 
