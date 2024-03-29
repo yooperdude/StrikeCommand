@@ -88,7 +88,15 @@ CMO has a few different types of missions. Patrols offer the most flexibility an
 
 ### Strike Missions
 
-A Strike Mission needs to begin with defined targets. 
+A Strike Mission needs to begin with defined targets. The mission will generate a Flight Plan. You can modify the plan before take off using the Strike Planner. One important thing to remember is once the strike is complete the units will return to base. They will not loiter or patrol.
+
+![Strike Planner](images/strikeplanner.png)
+
+* Air Intercept : Scrambles units to engage air targets.
+* Land Strike : Units engage land based targets.
+* Naval ASuW Strike : Units engage surface naval targets.
+* ASW Strike : Units perform anti-submarine warfare strike.
+
 
 ### Patrol Missions
 

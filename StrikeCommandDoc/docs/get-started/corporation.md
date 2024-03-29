@@ -32,7 +32,7 @@ Think about how your investor(s) would think about an action. Here are some exam
 
 Procurement Points (PP) are how you purchase aircraft, facilities, weaponry, upgrades, botes, and anything else that you need.
 
-**The group has 10 PP's per player in the group plus whatever additional points they bring from their background (or rich Uncle).** This number is so that a small group of players is not overwhelmed with aircraft to plan for while a large group will have plenty of options.
+**The group has 5 PP's per player in the group plus whatever additional points they bring from their background (or rich Uncle).** This number is so that a small group of players is not overwhelmed with aircraft to plan for while a large group will have plenty of options.
 
 There will be more guidance in the [procurement](../procurement/process.md) section as to how this flows and recomendations. 
 
