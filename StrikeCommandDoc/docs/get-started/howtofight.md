@@ -88,14 +88,62 @@ CMO has a few different types of missions. Patrols offer the most flexibility an
 
 ### Strike Missions
 
+Strike Missions are pre-planned missions that go after a list of known targets. There is a Strike Planner that lets you designate waypoints, altitudes, and behavior as the flight attacks the target. Once the targets have been attacked the aircraft will RTB.
 
+![Strike Planner](images/strikeplanner.png)
+
+#### Air Intercept
+
+Air Intercept missions will attack air targets. For example attacking a wing of bombers or intercepting incoming attack aircraft. 
+
+#### Land Strike
+
+Land Strike will send attack aircraft against known targets. An example is an offensive counter-air strike (OCA) against a runway. You know where the runway is, facilities, and if you have a scout on the ground you might know even more. 
+
+#### Naval ASuW Strike
+
+This is an anti surface warfare strike. Think an attack against a group of destroyers or against a cargo ship.
+
+#### ASW Strike
+
+Anti submarine warfare strike. You would use this to deploy ASW assets against a known submarine location. 
 
 ### Patrol Missions
+
+Patrol missions will remain inside of an area designated by reference points. They may use a prosecution zone to attack targets. So for example they could hold in a Patrol Zone and then engage bandits once they enter a prosecution zone. If you have not found the targets, need to find the targets, or need to maintain a patrol, then this is the best option.
+
+At one time I strictly used Patrol Missions, but the new Strike Planner is really exceptional and a lot of fun to use. But the Patrol mission will do a great deal of hands off work.
+
+* AAW Patrol : Anti Air Warfare Patrol, you will patrol and engage aircraft.
+* ASuW Patrol (Naval) : Anti Surface Warfare Patrol, you will patrol and engage naval surface assets.
+* ASuW Patrol (Ground) : Anti Surface Warfare Patrol, but you will engage ground targets.
+* ASuW Patrol (Mixed) : Anti Surface Warfare Patrol, but you will engage anything hostile that isn't flying.
+* ASW Patrol : Anti Submarine Warfare Patrol, you will hunt and engage submarines using sonar or passive devices.
+* SEAD Patrol : Suppressed of Enemy Air Defences Patrol, you will hunt and engage enemy air defences.
+* Sea Control Patrol : A combination of ASuW (Naval) and ASW Patrol.
 
 ### Support Missions
 
 Support missions are what your AEW or Fuelers will do. Once on station they will fly a racetrack and perform the mission until it's time to go home.
 
+### Ferry Missions
 
+Units will ferry themselves from one location to another. 
 
-## EMCON
+### Mining and Mine Clearing Mission
+
+A mission where naval units will either deploy mines, or attempt to clear mines. Note, clearing mines is **very** slow and dangerous.
+
+### Cargo Missions
+
+There is a cargo system for moving units, ammunition, and supplies. It can be challenging to make it work so I'd recommend not using it until it's had more time to bake. Once it's feature complete I think it has the ability to really make for some unique gameplay.
+
+## EMCON-WRA
+
+Your EMCON (Emissions Control) and WRA (weapons release authority) tab will define how your units behave. This will cover everything from torpedo evasion to whether or not a unit will strafe. One really interesting example is Weapons State, there is a whole slew of options as to how your units will behave when they have deployed ordnance. 
+
+EMCON is the big one and will dictate if your units are emitting radar, sonar, or attempting to actively electronically jam other radars. Note that units engaged offensively or defensively may do as they please to ensure survival. As a general rule you will want to emit radar if you have no other way of detecting aircraft. 
+
+Things become murkier if you have AEW because most missiles require the firing aircraft to have a radar lock. So you will have to emit briefly while you lock and fire. There are systems which allow the AEW to do this, but they tend to be fairly advanced.
+
+:material-arrow-right-box: **Now move on to the [Procurement](../procurement/process.md) section.**
