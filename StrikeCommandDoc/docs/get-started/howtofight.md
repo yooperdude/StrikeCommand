@@ -88,7 +88,7 @@ CMO has a few different types of missions. Patrols offer the most flexibility an
 
 ### Strike Missions
 
-
+A Strike Mission needs to begin with defined targets. 
 
 ### Patrol Missions
 
