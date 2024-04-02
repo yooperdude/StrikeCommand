@@ -98,7 +98,7 @@ It is the MC's discretion as to the upgrade path. For example should you first u
 
 ##### **OV-10D Bronco USMC Version**
 
-The venerable Bronco, long in the tooth but an extraordinarily tough aircraft. This is the final version of the Vietnam era attack aircraft. The weaponry is limited to air-to-ground ordnance and lacks any stand off capability. It can loiter for support ops using its onboard laser designator and sports an ECM package, on the downside it has limited upgrade potential to a version used by the Phillipine military.
+The venerable Bronco, long in the tooth but an extraordinarily tough aircraft. This is the final version of the Vietnam era attack aircraft. The weaponry is limited to air-to-ground ordnance and lacks any stand off capability. It can loiter for support ops using its onboard laser designator and sports an ECM package, on the downside it has limited upgrade potential to a version used by the Phillipine military. But later upgrades into different airframes is potent!
 
 **Upgrade Path**
 ```mermaid
@@ -152,3 +152,11 @@ graph LR
     A --> C[MQ-9B +8 PP]
     A --> D[EA6B Prowler +12 PP]
 ```
+
+### Ivanov Brothers
+
+#### Starting Package
+
+### Klaus and Pedersen
+
+####
